@@ -1,6 +1,6 @@
 // Tutorial built on the activities inside the Book:
 // "SwiftUI Cookbook - Second Edition"
-// The book uses Swift 3, Swift 5.5
+// The book uses SwiftUI 3, Swift 5.5
 import SwiftUI
 
 struct ContentView: View {
